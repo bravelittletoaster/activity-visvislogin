@@ -12,7 +12,10 @@
 </head>
 <body>
     
-    <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+<!-- Erick Jhon Estrella -->
+<!-- Nav Bar Start -->
+
+<nav class="navbar navbar-expand-sm navbar-dark bg-dark">
     <div class="container">
         <a href="#" class="navbar-brand mb-0 h2">
             <img src="https://media.licdn.com/dms/image/C5603AQG5wj8cC_Bdsw/profile-displayphoto-shrink_800_800/0/1651025836786?e=1684972800&v=beta&t=Eav5_zjAL-iicpcsG39R0hTFY-AcwItAD0mSmPKdkXE" 
@@ -59,6 +62,11 @@
     </nav>
     
     <section class="vh-100 gradient-custom">
+
+<!-- Erick Jhon Estrella -->
+<!-- Nav Bar End -->
+
+
 <div class="container py-5 h-100">
     <div class="row d-flex justify-content-center align-items-center h-100">
     <div class="col-12 col-md-8 col-lg-6 col-xl-5">
