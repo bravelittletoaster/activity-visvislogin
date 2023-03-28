@@ -17,12 +17,14 @@
 
 <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
     <div class="container">
+        <!-- Logo -->
         <a href="#" class="navbar-brand mb-0 h2">
             <img src="https://media.licdn.com/dms/image/C5603AQG5wj8cC_Bdsw/profile-displayphoto-shrink_800_800/0/1651025836786?e=1684972800&v=beta&t=Eav5_zjAL-iicpcsG39R0hTFY-AcwItAD0mSmPKdkXE" 
             class="d-inline-block align-top"
             width="35" height="35">
             Visvis Travel Inc
         <a>
+        <!-- Logo End -->  
         <div class="collapase navbar-collapse"
         id="navbar1">
         <ul class="navbar-nav" >
